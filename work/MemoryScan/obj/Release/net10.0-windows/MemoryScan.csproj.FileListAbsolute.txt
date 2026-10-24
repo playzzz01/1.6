@@ -1,0 +1,14 @@
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.AssemblyInfoInputs.cache
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.AssemblyInfo.cs
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.csproj.CoreCompileInputs.cache
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\bin\Release\net10.0-windows\MemoryScan.exe
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\bin\Release\net10.0-windows\MemoryScan.deps.json
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\bin\Release\net10.0-windows\MemoryScan.runtimeconfig.json
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\bin\Release\net10.0-windows\MemoryScan.dll
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\bin\Release\net10.0-windows\MemoryScan.pdb
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.dll
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\refint\MemoryScan.dll
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.pdb
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\MemoryScan.genruntimeconfig.cache
+C:\Users\JCC_0211\Documents\Codex\2026-10-23\cs1-6-3\work\MemoryScan\obj\Release\net10.0-windows\ref\MemoryScan.dll
